@@ -111,7 +111,7 @@ def colofao():
             '<p>IA e Medicina: do vocabulário à leitura crítica. Material de apoio do curso do IA.med, por Fabiano Novaes Barcellos Filho.</p>'
             '<p>Exemplos marcados como ilustrativos não vêm de estudos e servem só para explicar o conceito. Este material é educacional e não substitui o julgamento clínico.</p>'
             '<p>Edição de outubro de 2026. A seção sobre regulação retrata a situação nesse mês.</p>'
-            '<p>Texto e figuras sob a licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (<span style="white-space:nowrap;hyphens:none">CC BY-NC-SA 4.0</span>): você pode copiar e adaptar, com crédito, sem uso comercial e compartilhando do mesmo jeito. Fonte, correções e novas edições em <span style="white-space:nowrap;hyphens:none">github.com/Medicina-IA/livro-ia-e-medicina</span>.</p></div>')
+            '<p>Texto e figuras sob a licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (<span style="white-space:nowrap;hyphens:none">CC BY-NC-SA 4.0</span>): você pode copiar e adaptar, com crédito, sem uso comercial e compartilhando do mesmo jeito. Fonte, correções e novas edições em <span style="white-space:nowrap;hyphens:none">github.com/iamed-cc/livro-ia-e-medicina</span>.</p></div>')
 
 def montar(paginas):
     corpo = [capa(), como_usar(paginas)]
