@@ -4,7 +4,7 @@ O livro do curso IA e Medicina do [IA.med](https://iamed.cc): 14 capítulos, das
 
 Por Fabiano Novaes Barcellos Filho. Edição de outubro de 2026, 108 páginas.
 
-**Baixar o PDF:** na página [Releases](https://github.com/Medicina-IA/livro-ia-e-medicina/releases/latest). Quem assina o IA.med também encontra o livro em [app.iamed.cc/aulas](https://app.iamed.cc/aulas), ao lado dos vídeos.
+**Baixar o PDF:** na página [Releases](https://github.com/iamed-cc/livro-ia-e-medicina/releases/latest). Quem assina o IA.med também encontra o livro em [app.iamed.cc/aulas](https://app.iamed.cc/aulas), ao lado dos vídeos.
 
 ## O que tem no livro
 
@@ -40,11 +40,11 @@ O PDF sai em `dist/IAmed-Curso-IA-e-Medicina.pdf`. As fontes (Geist, Instrument 
 
 ## Correções
 
-Achou um erro, uma referência quebrada ou uma passagem confusa? Abra uma [issue](https://github.com/Medicina-IA/livro-ia-e-medicina/issues) dizendo a aula, a página do PDF e o trecho. Mudança de texto segue as regras de `docs/escrever-um-capitulo.md`: nada de número, estudo ou citação sem fonte conferida.
+Achou um erro, uma referência quebrada ou uma passagem confusa? Abra uma [issue](https://github.com/iamed-cc/livro-ia-e-medicina/issues) dizendo a aula, a página do PDF e o trecho. Mudança de texto segue as regras de `docs/escrever-um-capitulo.md`: nada de número, estudo ou citação sem fonte conferida.
 
 ## Licença
 
 - Texto e figuras: [Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br) (CC BY-NC-SA 4.0), em `LICENSE`. Você pode copiar e adaptar, dando o crédito, sem uso comercial e compartilhando a adaptação sob a mesma licença.
 - Código (`tools/`): MIT, em `LICENSE-CODE`.
 
-Para citar: Barcellos Filho FN. IA e Medicina: do vocabulário à leitura crítica. IA.med; 2026. Disponível em: https://github.com/Medicina-IA/livro-ia-e-medicina
+Para citar: Barcellos Filho FN. IA e Medicina: do vocabulário à leitura crítica. IA.med; 2026. Disponível em: https://github.com/iamed-cc/livro-ia-e-medicina
